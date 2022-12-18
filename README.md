@@ -1,4 +1,3 @@
-<img alt="Coding"  src="https://www.smerin.com/static/565c8b3670db248e0bdc848176270d6a/9397f/websites-banner.jpg"/>
 
 <h1 align="center">Hi 👋, I'm ARSLAN RIAZ</h1>
 <h3 align="center">A passionate frontend Developer from Pakistan</h3>
