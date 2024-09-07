@@ -11,10 +11,3 @@ Hello, and welcome to my GitHub profile! I am a passionate learner of data scien
 ![](https://github-readme-stats.vercel.app/api?username=arslanr369&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arslanr369&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arslanr369&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=arslanr369)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
----
-[![](https://visitcount.itsvg.in/api?id=arslanr369&icon=1&color=1)](https://visitcount.itsvg.in)
-
