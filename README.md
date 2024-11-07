@@ -2,6 +2,8 @@
 <h3 align="center">A passionate Full Stack Developer and Data Analyst from Pakistan</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arslanr369&label=Profile%20views&color=0e75b6&style=flat" alt="arslanr369" /> </p>
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.7%20million%20lines%20of%20code-blue)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arslanr369" alt="arslanr369" /></a> </p>
 
