@@ -5,9 +5,15 @@
   <img src="https://komarev.com/ghpvc/?username=arslanr369&label=Profile%20views&color=0e75b6&style=flat" alt="arslanr369" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arslanr369&label=Profile%20views&color=0e75b6&style=flat" alt="arslanr369" />
+</p>
+
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C280%20hrs%2046%20mins-blue)
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.7%20million%20lines%20of%20code-blue)
+<p align="center">
+  <img src="http://img.shields.io/badge/Code%20Time-3%2C280%20hrs%2046%20mins-blue" alt="Code Time" />
+  <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.7%20million%20lines%20of%20code-blue" alt="Lines of Code" />
+</p>
 <!--END_SECTION:waka-->
 
 
