@@ -5,10 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=arslanr369&label=Profile%20views&color=0e75b6&style=flat" alt="arslanr369" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arslanr369&label=Profile%20views&color=0e75b6&style=flat" alt="arslanr369" />
-</p>
-
 <!--START_SECTION:waka-->
 <p align="center">
   <img src="http://img.shields.io/badge/Code%20Time-3%2C280%20hrs%2046%20mins-blue" alt="Code Time" />
