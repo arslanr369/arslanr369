@@ -18,7 +18,7 @@ jobs:
           node-version: 16
 
       - name: Install WakaTime Stats Tool
-        run: npm install -g github:anmol098/waka-readme-stats
+        run: npm install -g https://github.com/anmol098/waka-readme-stats
 
       - name: Update README
         env:
