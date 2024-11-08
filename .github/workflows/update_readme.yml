@@ -2,7 +2,6 @@ name: Update README with WakaTime Stats
 
 on:
   schedule:
-    # Runs every 6 hours
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
@@ -18,8 +17,8 @@ jobs:
         with:
           node-version: 16
 
-      - name: Install Dependencies
-        run: npm install -g waka-readme-stats
+      - name: Install WakaTime Stats Tool
+        run: npm install -g github:anmol098/waka-readme-stats
 
       - name: Update README
         env:
